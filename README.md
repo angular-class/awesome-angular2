@@ -653,6 +653,7 @@ become an Angular expert.
 * [ngx-tagify](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/).
 * [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 * [ngx-notion-cms](https://github.com/borjamrd/ngx-notion-cms) - Render your Notion content through your Angular application as a CMS.
+* [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 
 #### Internationalization
 
