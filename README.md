@@ -1365,6 +1365,7 @@ to simplify usage and allow quick customization.
 * [tansu](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 * [@tethys/store](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
 * [angular-redux](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
+* [ng](https://github.com/bitfiber/ng) - An Angular-specific extension of [@bitfiber/rx](https://github.com/bitfiber/rx) built on top of RxJS, designed to manage reactive state, asynchronous workflows, and events in Angular applications. It provides a structured approach to handling complex data flows using emitters, states, groups, and stores, allowing seamless integration of various reactive sources like emitters, states, and observables.
 
 #### Storage
 
