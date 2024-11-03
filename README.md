@@ -825,6 +825,7 @@ become an Angular expert.
 * [playwright-ng-schematics](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 * [docker-ng-cli-karma](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 * [ngx-playwright](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
+* [Meticulous AI](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
 
 #### Updating
 
