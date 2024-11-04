@@ -926,6 +926,7 @@ become an Angular expert.
 * [ngx-hm-carousel](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
 * [ngx-stories](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 * [carousel-library](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
+* [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
 
 #### Charts
 
