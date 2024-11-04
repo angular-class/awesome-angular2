@@ -1130,6 +1130,7 @@ become an Angular expert.
 * [ngx-phone-field](https://github.com/alex-mirankov/ngx-phone-field) - An Angular directive that provides international phone input with country flag dropdowns. It integrates with Angular forms, supporting both Reactive Forms and Template-Driven Forms.
 * [ngx-rabe-star](https://github.com/Avotraina/ngx-rabe-star) - An Angular library that provides a customizable star rating component for your Angular application.
 * [ngx-mat-birthday-input](https://github.com/rbalet/ngx-mat-birthday-input) - An Angular Material library for entering a birthday.
+* [ngx-countries-dropdown](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
 
 ##### Validation
 
