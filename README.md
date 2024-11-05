@@ -1144,6 +1144,7 @@ become an Angular expert.
 * [ngx-validator-pack](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
 to simplify usage and allow quick customization.
 * [ngx-error-msg](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
+* [ngx-form-errors](https://github.com/NationalBankBelgium/ngx-form-errors) - Display form validation errors for Angular Reactive forms.
 
 #### Icons
 
