@@ -680,6 +680,7 @@ become an Angular expert.
 * [ngx-translate-routes](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 * [ngx-translate-lint](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
 * [translate](https://github.com/ngstack/translate) - Translation library for Angular and Ionic applications.
+* [ngx-merge-json-translations](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
 
 #### Monorepos
 
