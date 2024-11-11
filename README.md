@@ -1321,6 +1321,7 @@ to simplify usage and allow quick customization.
 * [dialog](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [ngx-modal-ease](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
 * [ngx-smart-modal](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+* [up-window-angular](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
 
 #### Notifications
 
