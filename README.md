@@ -499,6 +499,7 @@ become an Angular expert.
 * [ng-packagr](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 * [angular-env-builder](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
 * [ng-rspack-build](https://github.com/Coly010/ng-rspack-build) - [Rspack](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
+* [ngx-devkit-builders](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
 
 #### CLI
 
@@ -606,6 +607,7 @@ become an Angular expert.
 * [angular-odata](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 * [ngx-http-retry](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 * [ng-memento](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
+* [ngx-suspense-of](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
 
 #### Integrations
 
@@ -683,6 +685,8 @@ become an Angular expert.
 * [ngx-translate-lint](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
 * [translate](https://github.com/ngstack/translate) - Translation library for Angular and Ionic applications.
 * [ngx-merge-json-translations](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
+* [ngx-i18n-extract-regex-cli](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
+* [ngx-translate-version](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
 
 #### Monorepos
 
@@ -845,6 +849,7 @@ become an Angular expert.
 * [ngx-maintenance](https://github.com/danielglejzner/ngx-maintenance) - Can't upgrade to Angular 16+ due to old View Engine dependencies? This automates the hassle so you can easily upgrade!
 * [fast-facts/ng-update](https://github.com/fast-facts/ng-update) - A Github Action that keeps your Angular CLI-based projects up-to-date via automated PRs based on `ng update`.
 * [npx-app-updater](https://github.com/DSI-HUG/ngx-app-updater) - When a new version of your application is deployed, this library will trigger a user notification to inform them that updates are available.
+* [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 
 ---
 
@@ -1035,6 +1040,12 @@ become an Angular expert.
 * [ngx-pipes-toolkit](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
 * [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
 * [ngx-interpolation](https://github.com/yassine-klilich/ngx-interpolation) - An Angular lightweight library to interprate string interpolation expressions.
+* [ngx-nullable](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
+* [ngx-if-platform](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
+* [ngx-cut](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
+* [ngx-app-version](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
+* [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
+* [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
 
 #### Drag and Drop
 
