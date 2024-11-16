@@ -1193,6 +1193,7 @@ to simplify usage and allow quick customization.
 * [ngx-fast-svg](https://github.com/push-based/ngx-fast-svg) - SVGs, fast and developer friendly in Angular.
 * [angular-techs-logos](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 * [ngx-x-browser-svg-mask](https://github.com/bmartinson/ngx-x-browser-svg-mask) - Directive to easily achieve cross browser compliance while creating SVG masks.
+* [boringer-avatars](https://github.com/cmgriffing/boringer-avatars) - A fork from [boring-avatars](https://github.com/boringdesigners/boring-avatars). This rewrites the base as Mitosis components and exports into multiple framework flavors including [Angular](https://github.com/cmgriffing/boringer-avatars/tree/main/packages/lib-angular).
 
 #### Images
 
