@@ -456,6 +456,7 @@ become an Angular expert.
 * [@blue-cardinal/ngx-google-analytics](https://github.com/blue-cardinal/ngx-google-analytics) - This package provides a module that injects the Google Analytics tag manager script into your Angular project. It provides some guard rails against including the tag manager script in a dev environment.
 * [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [ngx-clarity](https://github.com/jadengis/ngx-clarity) - A useful Angular library that automatically injects the script tag required to use [Microsoft Clarity](https://clarity.microsoft.com/).
+* [ngx-piwik-pro](https://github.com/PiwikPRO/ngx-piwik-pro) - Dedicated [Piwik PRO](https://piwik.pro/) library that helps with implementing Piwik PRO Tag Manager and the Piwik PRO tracking client in Angular 8+ applications.
 
 #### Authentication
 
