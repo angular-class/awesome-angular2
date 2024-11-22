@@ -532,6 +532,7 @@ become an Angular expert.
 #### Developer tools
 
 * [StackBlitz](https://stackblitz.com) - Instant Dev Environments.
+* [bolt](https://bolt.new/) -  Dev sandbox with AI from StackBlitz.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [IDX](https://idx.dev/) - Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
