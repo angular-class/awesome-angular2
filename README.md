@@ -1127,6 +1127,7 @@ become an Angular expert.
 * [ngx-form](https://github.com/paddls/ngx-form) - Model based typed reactive forms made easy.
 * [ngx-enhancy-forms](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
 * [ngx-forms-core](https://github.com/Juulsgaard/ngx-forms-core) - This library provides strictly typed versions of the Angular form system. The classes extend the Angular form system and provide several tools to improve type strictness.
+* [ngx-focus-entities](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel](https://github.com/klee-contrib/topmodel).
 
 ##### Form Controls
 
