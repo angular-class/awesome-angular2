@@ -1389,6 +1389,7 @@ to simplify usage and allow quick customization.
 * [qrcode.angular](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
 * [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
 * [ngx-qrcode-generator](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious](https://github.com/neocotic/qrious) library.
+* [ngx-scanner-qrcode](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 
 #### Scroll
 
