@@ -1101,6 +1101,7 @@ become an Angular expert.
 * [ngx-jodit](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit](https://github.com/xdan/jodit) WYSIWYG editor.
 * [ngx-ace-wrapper](https://github.com/zefoy/ngx-ace-wrapper) - Angular wrapper library for [Ace](http://ace.c9.io/).
 * [ngx-quill-wrapper](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
+* [ngx-tinymce](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
 
 #### File Upload
 
