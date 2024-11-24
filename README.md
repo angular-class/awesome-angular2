@@ -399,6 +399,7 @@ become an Angular expert.
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
 * [Sebastian Persson](https://www.youtube.com/@DevBySeb)
+* [Kobi Hari](https://www.youtube.com/@kobihari)
 
 ##### Style Guides
 
