@@ -1221,6 +1221,7 @@ to simplify usage and allow quick customization.
 * [angular-techs-logos](https://github.com/criar-art/angular-techs-logos) - Library of tech related icons.
 * [ngx-x-browser-svg-mask](https://github.com/bmartinson/ngx-x-browser-svg-mask) - Directive to easily achieve cross browser compliance while creating SVG masks.
 * [boringer-avatars](https://github.com/cmgriffing/boringer-avatars) - A fork from [boring-avatars](https://github.com/boringdesigners/boring-avatars). This rewrites the base as Mitosis components and exports into multiple framework flavors including [Angular](https://github.com/cmgriffing/boringer-avatars/tree/main/packages/lib-angular).
+* [@semantic-icons/heroicons](https://www.npmjs.com/package/@semantic-icons/heroicons) - [Semantic icons](https://github.com/khalilou88/semantic-icons) helps developers to use [Heroicons](https://heroicons.com/) icons inside Angular projects.
 
 #### Images
 
