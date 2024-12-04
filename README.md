@@ -92,6 +92,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Mixed utilities](#mixed-utilities)
   * [Modals](#modals)
   * [Notifications](#notifications)
+  * [Printing](#printing)
   * [QR Codes](#qr-codes)
   * [Scroll](#scroll)
   * [State Management](#state-management)
@@ -1396,6 +1397,12 @@ to simplify usage and allow quick customization.
 * [ngx-toastr-message](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 * [ngx-french-toast](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
 
+#### Printing
+
+* [ngx-print](https://github.com/selemxmn/ngx-print) - A plug n' play Angulae library to print your stuff.
+* [ngx-printify](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
+* [ngx-printer-demo](https://github.com/plaetzchen79/ngx-printer-demo) - A simple Angular service to print a window, parts of a window (div), images, HTMLElements or Angular Objects.
+
 #### QR Codes
 
 * [ng-qrcode](https://github.com/mnahkies/ng-qrcode) - Easy to use AOT compatible QR code generator for Angular projects.
@@ -1625,7 +1632,6 @@ for the creation of web applications developed with Angular.
 * [ngx-morse](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ngx-back-button](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 * [ngx-route-manager](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
-* [ngx-printify](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
 
 ---
 
