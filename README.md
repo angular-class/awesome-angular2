@@ -1526,6 +1526,7 @@ to simplify usage and allow quick customization.
 * [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 * [po-angular](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 * [pastanaga-angular](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
+* [ngx-nighthawk](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 
 ##### Material Based
 
