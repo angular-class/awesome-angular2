@@ -913,6 +913,7 @@ become an Angular expert.
 * [ngx-starry-sky](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
 * [ngx-connection-beam](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
 * [ngx-countUp](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
+* [ngx-animated-counter](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
 
 #### Breadcrumbs
 
