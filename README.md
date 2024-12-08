@@ -96,6 +96,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [QR Codes](#qr-codes)
   * [Scroll](#scroll)
   * [State Management](#state-management)
+    * [NgRx](#ngrx)
+    * [NGXS](#ngxs)
+    * [Additional](#additional)
   * [Storage](#storage)
   * [Tooltips](#tooltips)
   * [UI Libraries](#ui-libraries)
@@ -108,7 +111,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Viewers](#viewers)
   * [Misc Components](#misc-components)
 * [Ionic](#ionic)
-* [NgRx](#ngrx)
 * [RxJS](#rxjs)
 * [TypeScript](#typescript)
 * [Other Lists](#other-lists)
@@ -1438,13 +1440,48 @@ to simplify usage and allow quick customization.
 
 #### State Management
 
+##### NgRx
+
+* [Official Website](https://ngrx.io/)
+* [GitHub Repo](https://github.com/ngrx/platform) - Reactive State for Angular.
+* [ngrx-course](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
+* [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
+* [ngrx-toolkit](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
+* [ngrx-traits](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
+* [ngrx-addons](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
+* [ngrx-store-storagesync](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
+* [ngrx-store-formsync](https://github.com/larscom/ngrx-store-formsync) - Synchronize any reactive form to `@ngrx/store`.
+* [ngrx-wieder](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
+* [ngrx-immer](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
+* [ngrx-rtk-query](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
+* [ngrx-action-bundles](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
+* [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
+* [ngx-view-state](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
+* [store-service](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
+* [ngrx-entity-relationship](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
+* [ngx-signal-store-query](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
+* [SmartNgRX](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
+
+##### NGXS
+
+* [Official Website](https://www.ngxs.io/)
+* [GitHub Repo](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
+* [emitter](https://github.com/ngxs-labs/emitter) - New pattern that provides the opportunity to feel free from actions.
+* [select-snapshot](https://github.com/ngxs-labs/select-snapshot) - Flexibile decorator that allows to get a snapshot of the state.
+* [actions-executing](https://github.com/ngxs-labs/actions-executing) - This plugin allows you to easily know if an action is being executed and control UI elements or control flow of your code to execute.
+* [ngxs-synchronizers](https://github.com/lVlyke/ngxs-synchronizers) - Simplifies synchronizing your NGXS-based application state with external data sources.
+* [ngxs-message-plugin](https://github.com/Andreas-Hjortland/ngxs-message-plugin) - An NGXS plugin which allows you to share state between different browser contexts.
+* [firestore-plugin](https://github.com/ngxs-labs/firestore-plugin) - Firestore plugin for NGXS.
+* [ngxs-reset-plugin](https://github.com/ng-turkey/ngxs-reset-plugin) - Reset plugin for NGXS: Effortlessly clears, resets, or overwrites NGXS states respecting the state tree.
+* [ngxs-state-mixins](https://github.com/zampage/ngxs-state-mixins) - Concept of how to implement state mixins in NGXS.
+
+##### Additional
+
+* [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
-* [ngxs](https://github.com/ngxs/store) - NGXS tries to make things as simple and accessible as possible with less boilerplate and code to maintain.
-* [ngrx](https://github.com/ngrx/platform) - Reactive State for Angular.
 * [query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
-* [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 * [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
 * [ngx-signal-state](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular.
 * [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
@@ -1655,27 +1692,6 @@ for the creation of web applications developed with Angular.
 * [ionic-angular-collect-icons](https://github.com/rdlabo-team/ionic-angular-collect-icons) - This library is used to uniquely group the ionIcons in a project, and generate for export ionIcons file. In small projects, it is difficult to manage addIcons() of ionIcons each time, so we automated it.
 * [IDEA-Ionic8-extra](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
 * [ionic-component-snippets](https://github.com/LennonReid/ionic-component-snippets) - This repository showcases demos and libraries that aren't officially supported by Ionic yet, but can be useful for developers and their apps.
-
-#### NgRx
-
-* [ngrx](https://ngrx.io/) - Reactive State for Angular.
-* [ngrx-course](https://github.com/angular-university/ngrx-course) - Angular University Complete Guide.
-* [ngrx-store-localstorage](https://github.com/btroncone/ngrx-store-localstorage) - Simple syncing between `@ngrx/store` and local storage.
-* [ngrx-toolkit](https://github.com/angular-architects/ngrx-toolkit) - Various Extensions for the NgRx Signal Store.
-* [ngrx-traits](https://github.com/gabrielguerrero/ngrx-traits) - NgRx Traits is a library to help you compose and reuse a set NGRX actions, selectors, effects, and reducers across your app.
-* [ngrx-addons](https://github.com/Michsior14/ngrx-addons) - A collection of NgRx addons, including state persistence.
-* [ngrx-store-storagesync](https://github.com/larscom/ngrx-store-storagesync) - Highly configurable state sync library between localStorage/sessionStorage and `@ngrx/store`.
-* [ngrx-store-formsync](https://github.com/larscom/ngrx-store-formsync) - Synchronize any reactive form to `@ngrx/store`.
-* [ngrx-wieder](https://github.com/nilsmehlhorn/ngrx-wieder) - Lightweight undo-redo for Angular with NgRx & Immer.js.
-* [ngrx-immer](https://github.com/timdeschryver/ngrx-immer) - Immer wrappers around NgRx methods createReducer, on, and ComponentStore.
-* [ngrx-rtk-query](https://github.com/SaulMoro/ngrx-rtk-query) - Make RTK Query with Hooks works in Angular Applications.
-* [ngrx-action-bundles](https://github.com/IliaIdakiev/ngrx-action-bundles) - This library allows you to reduce ngrx boilerplate by generating action bundles for common ngrx redux store scenarios and allows you to easily connect state, dispatch actions and listen for actions everywhere across your applications.
-* [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
-* [ngx-view-state](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
-* [store-service](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
-* [ngrx-entity-relationship](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
-* [ngx-signal-store-query](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
-* [SmartNgRX](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
 
 #### RxJS
 
