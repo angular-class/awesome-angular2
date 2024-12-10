@@ -21,6 +21,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [Community](#community)
     * [Newsletters](#newsletters)
     * [Podcasts](#podcasts)
+    * [Seasonal](#seasonal)
     * [X](#x)
       * [angular-team](#angular-team)
       * [experts](#experts)
@@ -169,6 +170,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Master Podcast](https://www.youtube.com/playlist?list=PLYJFRoKhU5SNcu5GBjIn4X3oVpy4fP1wV)
 * [Angular Catch Up](https://angular-catch-up.podbean.com/)
 * [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - (Spanish)
+
+##### Seasonal
+
+* [Angular Christmas Calendar](https://angularchristmascalendar.com/)
+* [Angular Love Advent Calendar](https://advent.angular.love/event)
+* [Advent of TypeScript](https://www.adventofts.com/)
 
 ##### X
 
