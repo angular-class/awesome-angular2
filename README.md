@@ -1070,7 +1070,6 @@ become an Angular expert.
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 * [safe-pipe](https://github.com/embarq/safe-pipe) - Angular pipe for sanitizing your unsafe content.
 * [ngxd](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
-* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 * [ngx-highlightjs](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
 * [ngx-sharebuttons](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
@@ -1092,6 +1091,8 @@ become an Angular expert.
 * [ngx-href](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 * [ng-dompurify](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 * [ngx-windows](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
+* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+* [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
 
 #### Drag and Drop
 
