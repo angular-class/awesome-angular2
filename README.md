@@ -417,6 +417,7 @@ become an Angular expert.
 
 * [Official Angular style guide](https://angular.dev/style-guide#)
 * [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
+* [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
 
 ---
 
