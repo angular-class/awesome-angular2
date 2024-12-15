@@ -576,6 +576,7 @@ become an Angular expert.
 * [Compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
 * [ng-doc](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 * [docgeni](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
+* [trakk.js](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 
 #### Generators
 
