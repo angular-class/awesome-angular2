@@ -1293,6 +1293,7 @@ to simplify usage and allow quick customization.
 * [ngx-gridpattern](https://github.com/omnedia/ngx-gridpattern) - A simple component library to create a container with an pattern background.
 * [ngx-retro-grid](https://github.com/omnedia/ngx-retro-grid) - This component creates a 3D perspective grid with customizable colors, rotation, and smooth animation, perfect for adding a nostalgic or futuristic visual effect to your application.
 * [ngx-bottom-sheet](https://github.com/ArslanAmeer/ngx-bottom-sheet) - A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.
+* [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Angular library to create a simple grid layout.
 
 #### Loaders
 
