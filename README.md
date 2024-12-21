@@ -54,7 +54,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
   * [HTTP](#http)
   * [Integrations](#integrations)
   * [Internationalization](#internationalization)
-  * [Module Federaion](#module-federation)
+  * [Module Federation](#module-federation)
   * [Monorepos](#monorepos)
   * [Security](#security)
   * [SEO](#seo)
