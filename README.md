@@ -825,6 +825,7 @@ become an Angular expert.
 * [nx-starter](https://github.com/touhidrahman/nx-starter) - Nx powered starter project for Angular with SpartanUI.
 * [ng-starter-template](https://github.com/hkurma/ng-starter-template) - Angular application starter template configured with scss, eslint, prettier, husky, and lint-staged.
 * [angular-material-tailwind-playwright-starter](https://github.com/adrian-taralunga/angular-material-tailwind-playwright-starter) - Angular 19 with material, tailwind, jest, playwright, and ngxs.
+* [Angspire](https://github.com/tbarracha/Angspire) - Angular + .NET (monorepo) project template designed to simplify development with out-of-the-box features like (basic) user authentication and frontend themes, reducing setup time and providing a scalable, maintainable foundation for your applications.
 
 ##### Paid
 
