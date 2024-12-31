@@ -1004,6 +1004,7 @@ become an Angular expert.
 * [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
 * [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
 * [ngx-custom-carousel](https://github.com/devendramilmile121/ngx-custom-carousel) - A feature-rich Angular 17 component crafted to elevate your carousel experience.
+* [ngx-edge-slider](https://github.com/WingmanColt/ngx-edge-slider) - Highly flexible and customizable slider component designed for Angular applications. It offers an intuitive interface to manage slides, providing smooth transitions, autoplay functionality, responsive design, with interactive features like draggable slides and configurable navigation.
 
 #### Charts
 
