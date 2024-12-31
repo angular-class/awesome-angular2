@@ -1439,6 +1439,7 @@ to simplify usage and allow quick customization.
 * [ssv.ngx](https://github.com/sketch7/ssv.ngx) - Mono-repo of libraries from [sketch7](https://github.com/sketch7). [ngx.command](https://github.com/sketch7/ssv.ngx/tree/master/libs/ngx.command#readme) is a command pattern implementation for Angular. [ngx.ux](https://github.com/sketch7/ssv.ngx/blob/master/libs/ngx.ux/README.md) provides UX essentials and utilities for building apps.
 * [ng-kit](https://github.com/js-smart/ng-kit) - Reusable Angular components built with Angular Material and Bootstrap 5.x, Utility classes/functions for Date, Form and String operations.
 * [nxt-components](https://github.com/Liquid-JS/nxt-components) - A collection of various Angular components.
+* [ngx-signal-plus](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 
 #### Modals
 
