@@ -1303,6 +1303,7 @@ to simplify usage and allow quick customization.
 * [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 * [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
+* [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
 
 #### Keyboard Mouse
 
