@@ -1747,6 +1747,7 @@ for the creation of web applications developed with Angular.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 * [ngs-json-utils](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
 * [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - This package helps you to track changes made on your entities automatically using a base repository class to extend from.
+* [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
 
 ---
 
