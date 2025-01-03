@@ -1165,6 +1165,7 @@ become an Angular expert.
 * [ngx-quill-wrapper](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
 * [ngx-tinymce](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
 * [formly-editor](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly](https://github.com/ngx-formly/ngx-formly) forms.
+* [MagnetarQuill](https://github.com/scherenhaenden/MagnetarQuill) - A versatile, extensible, and powerful WYSIWYG editor built with Angular, designed to streamline content creation with rich text, media, tables, and more. MagnetarQuill stands out with its plugin architecture, cross-browser support, and stunning theming options.
 
 #### File Upload
 
