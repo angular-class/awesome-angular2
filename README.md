@@ -1244,6 +1244,7 @@ become an Angular expert.
 * [ngx-duration-picker](https://github.com/FrancescoBorzi/ngx-duration-picker) - Angular component for ISO_8601 durations.
 * [ngx-super-select-tree](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
 * [ngx-easy-emoji-picker](https://github.com/PsySanchez/ngx-easy-emoji-picker) - Angular library that seamlessly integrates emoji selection into your application.
+* [ngx-mat-table-multi-sort](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
 
 ##### Validation
 
