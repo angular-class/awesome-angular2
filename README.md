@@ -1531,6 +1531,7 @@ to simplify usage and allow quick customization.
 * [ngrx-entity-relationship](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 * [ngx-signal-store-query](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
 * [SmartNgRX](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
+* [ngrx-hateoas](https://github.com/angular-architects/ngrx-hateoas) - A library to bring hypermedia json into the NgRx Signal Store following the HATEOAS approach.
 
 ##### NGXS
 
