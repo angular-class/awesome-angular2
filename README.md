@@ -1512,6 +1512,7 @@ to simplify usage and allow quick customization.
 * [ngx-marquee](https://github.com/omnedia/ngx-marquee) - A simple component library to create an infinite scrolling marquee with your content.
 * [@omnedia/ngx-scrollbar](https://github.com/omnedia/ngx-scrollbar) - This component offers a custom scrollbar with smooth scrolling functionality and allows for full control over its appearance through styling.
 * [ngx-perfect-scrollbar](https://github.com/Harvest-Dev/ngx-perfect-scrollbar) - This fork of [ngx-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) is an Angular wrapper library for [Perfect Scrollbar](https://utatti.github.io/perfect-scrollbar/).
+* [ngx-virtual-dnd-list](https://github.com/mfuu/ngx-virtual-dnd-list) - A virtual scrolling list component that can be sorted by dragging.
 
 #### State Management
 
