@@ -1415,6 +1415,7 @@ to simplify usage and allow quick customization.
 * [ngx-videogular](https://github.com/videogular/ngx-videogular) - An HTML5 video player for Angular 2.0. Videogular is a wrapper over the HTML5 video tag, so you can just add whatever you want. This provides a very powerful, but simple to use solution, for everybody.
 * [voicecapture-angular](https://github.com/angular-a11y/voicecapture-angular) - The library offers customizable options for handling voice input and transcription, making it a flexible solution for enhancing user interfaces.
 * [ngx-video-timeline](https://github.com/LennonReid/ngx-video-timeline) - Video playback progress bar component.
+* [ngx-cam-shoot](https://github.com/RzoDev/ngx-cam-shoot) - A streamlined Angular component that simplifies using your device's camera and accelerates image capture and saving.
 
 #### Mixed utilities
 
