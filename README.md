@@ -1579,7 +1579,7 @@ to simplify usage and allow quick customization.
 
 #### Storage
 
-* [rxdb](https://rxdb.info/) - RxDB can be used as an abstraction layer for [IndexedDB]((https://rxdb.info/articles/angular-indexeddb.html)).
+* [rxdb](https://rxdb.info/) - RxDB can be used as an abstraction layer for [IndexedDB](https://rxdb.info/articles/angular-indexeddb.html).
 * [ngx-reactive-storage](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
 * [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
 * [ngx-indexed-db](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
