@@ -981,6 +981,7 @@ become an Angular expert.
 * [angular-year-calendar](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 * [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
+* [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 
 #### Captcha
 
