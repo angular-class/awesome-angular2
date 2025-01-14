@@ -1056,6 +1056,7 @@ become an Angular expert.
 * [ngx-cookieconsent](https://github.com/tinesoft/ngx-cookieconsent) - Cookie Consent module for Angular.
 * [cookieconsent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
 * [ngx-cookiebot](https://github.com/halloverden/ngx-cookiebot) - An Angular wrapper around the [Cookiebot](https://www.cookiebot.com/) SDK.
+* [ngx-cookie-ssr](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 
 #### Data Grids
 
