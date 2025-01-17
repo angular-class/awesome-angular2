@@ -1430,6 +1430,7 @@ to simplify usage and allow quick customization.
 * [voicecapture-angular](https://github.com/angular-a11y/voicecapture-angular) - The library offers customizable options for handling voice input and transcription, making it a flexible solution for enhancing user interfaces.
 * [ngx-video-timeline](https://github.com/LennonReid/ngx-video-timeline) - Video playback progress bar component.
 * [ngx-cam-shoot](https://github.com/RzoDev/ngx-cam-shoot) - A streamlined Angular component that simplifies using your device's camera and accelerates image capture and saving.
+* [velt](https://velt.dev/) - Add AI powered collaboration features ridiculously fast.
 
 #### Mixed utilities
 
