@@ -702,6 +702,7 @@ become an Angular expert.
 * [ngx-wagmi](https://github.com/thanhhoa214/ngx-wagmi) - An essential toolkit to connect your Angular app to the blockchain, bringing powerful wallet and contract interactions to your fingertips.
 * [ngx-chessground](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground](https://github.com/ornicar/chessground).
 * [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
+* [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 
 #### Internationalization
 
