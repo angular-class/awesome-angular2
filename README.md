@@ -1358,6 +1358,7 @@ to simplify usage and allow quick customization.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Angular library to create a simple grid layout.
 * [ngx-flexbox](https://github.com/philipibovo/ngx-flexbox) - Designed as an alternative to [@angular/flexlayout](https://github.com/angular/flex-layout), ngx-flexbox provides Angular developers with component layout features using a custom layout API, media query observables, and injected DOM flexbox-2016 CSS stylings.
 * [ngx-van](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
+* [ngx-swipe-menu](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
 
 #### Loaders
 
